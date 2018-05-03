@@ -12,6 +12,9 @@
 		FDBC04EE209AD74E00F176DE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FDBC04EC209AD74E00F176DE /* Main.storyboard */; };
 		FDBC04F0209AD74E00F176DE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FDBC04EF209AD74E00F176DE /* Assets.xcassets */; };
 		FDBC04F3209AD74E00F176DE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FDBC04F1209AD74E00F176DE /* LaunchScreen.storyboard */; };
+		FDBC04FB209AE4DF00F176DE /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FDBC04FA209AE4DF00F176DE /* 1.jpg */; };
+		FDBC04FD209AE9EE00F176DE /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FDBC04FC209AE9EE00F176DE /* 2.jpg */; };
+		FDBC04FF209AE9F200F176DE /* 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FDBC04FE209AE9F200F176DE /* 3.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +25,9 @@
 		FDBC04EF209AD74E00F176DE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FDBC04F2209AD74E00F176DE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FDBC04F4209AD74E00F176DE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FDBC04FA209AE4DF00F176DE /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
+		FDBC04FC209AE9EE00F176DE /* 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpg; sourceTree = "<group>"; };
+		FDBC04FE209AE9F200F176DE /* 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +60,9 @@
 		FDBC04E7209AD74E00F176DE /* Simple TableView */ = {
 			isa = PBXGroup;
 			children = (
+				FDBC04FA209AE4DF00F176DE /* 1.jpg */,
+				FDBC04FC209AE9EE00F176DE /* 2.jpg */,
+				FDBC04FE209AE9F200F176DE /* 3.jpg */,
 				FDBC04E8209AD74E00F176DE /* AppDelegate.swift */,
 				FDBC04EA209AD74E00F176DE /* ViewController.swift */,
 				FDBC04EC209AD74E00F176DE /* Main.storyboard */,
@@ -124,6 +133,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				FDBC04F3209AD74E00F176DE /* LaunchScreen.storyboard in Resources */,
+				FDBC04FB209AE4DF00F176DE /* 1.jpg in Resources */,
+				FDBC04FD209AE9EE00F176DE /* 2.jpg in Resources */,
+				FDBC04FF209AE9F200F176DE /* 3.jpg in Resources */,
 				FDBC04F0209AD74E00F176DE /* Assets.xcassets in Resources */,
 				FDBC04EE209AD74E00F176DE /* Main.storyboard in Resources */,
 			);
